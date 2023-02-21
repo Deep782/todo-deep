@@ -8,7 +8,8 @@
   background: rgb(181, 185, 189);
 }
 .input-container {
-  height: 10%;
+  height: 40%;
+  width: 100%;
   display: flex;
   justify-content: center;
   flex-direction: column;
